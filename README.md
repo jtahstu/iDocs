@@ -2,6 +2,7 @@
 
 ## Frontend
 
+### [JavaScript](Frontend/JavaScript.md)
 ### [Vue](Frontend/Vue.md) 
 
 ## Backend
